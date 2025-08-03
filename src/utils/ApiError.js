@@ -19,3 +19,6 @@ if(stack){
 
     }
 }
+
+export {ApiError}
+
